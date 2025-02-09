@@ -1,1 +1,1 @@
-# GUI-Calculator
+# A Python mini-project
